@@ -1,0 +1,26 @@
+.gridcont, #mylistis{
+    display: grid;
+    grid-template-columns: 150px 100px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-top: 10px;
+
+}
+
+#addbutton{
+    background-color: rgb(57, 207, 37);
+    border-radius: 5px;
+    border: 1px;
+   
+
+}
+
+.tot{
+    border: 1px;
+    border-style: dashed;
+    width:450px;
+    height: 500px;
+    padding: 20px;
+    margin: 20px 30px;
+
+}
